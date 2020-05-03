@@ -11,8 +11,8 @@ import paho.mqtt.client as mqtt
 MQTT_REMOTE_SERVER="192.168.1.8"
 #MQTT_REMOTE_SERVER="chimpanzee.rmq.cloudamqp.com"
 MQTT_PATH_RECV="iot"
-#USER="chimpanzee.rmq.cloudamqp.com"
-#PASS="ijOv0DHpdzRleeN0_axHnaSEk5HLlVmt "
+#USER="qeqwzcps:qeqwzcps"
+#PASS="ijOv0DHpdzRleeN0_axHnaSEk5HLlVmt"
 USER="iotbroker"
 PASS="iotbroker"
 

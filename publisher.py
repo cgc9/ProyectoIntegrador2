@@ -1,13 +1,13 @@
 import paho.mqtt.publish as publish
 import time
-MQTT_REMOTE_SERVER="192.168.1.8"
 
+MQTT_REMOTE_SERVER="192.168.1.8"
 #MQTT_REMOTE_SERVER="chimpanzee.rmq.cloudamqp.com"
 MQTT_PATH_SEND= "iotSound"
 USER="iotbroker"
 PASS="iotbroker"
-#USER="chimpanzee.rmq.cloudamqp.com"
-#PASS="ijOv0DHpdzRleeN0_axHnaSEk5HLlVmt "
+#USER="qeqwzcps:qeqwzcps"
+#PASS="ijOv0DHpdzRleeN0_axHnaSEk5HLlVmt"
 
 ahora = time.strftime("%c")
 
